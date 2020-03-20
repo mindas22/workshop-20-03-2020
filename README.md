@@ -31,4 +31,30 @@ $ npm i express graphql cors jsonwebtoken sequelize body-parser apollo-server-ex
 $ DB_DATABASE=['database'] DB_USERNAME=['root'] DB_PASSWORD=['yourpassword']  DB_HOST=['localhost'] DB_DIALECT=['mysql'] DB_PORT=['3306'] npm start
 ```
 
+## Tasks
+#### Fisrt sprint
+* [ ] Run configuration  
+* [ ] Install packages
+* [ ] Run test to test database  
+* [ ] Analyze project structure  
+* [ ] Express server configuration
+* [ ] Apollo server configuration
+* [ ] Create User schema
+* [ ] Create User resolver
+* [ ] Create login mutation
+* [ ] Create register resolver
+* [ ] Create register mutation
+* [ ] Create register resolver
+* [ ] Create Post resolver
+* [ ] Create Post Schema
+* [ ] Create posts query
+  
 
+#### Second sprint
+* [ ] Add users to cache
+* [ ] Block content per user permissions
+* [ ] Create admin only mutations
+* [ ] Create Test only resolvers
+* [ ] Configure real production server
+* [ ] Install nginx,pm2,letsencrypt,node-12x
+    
