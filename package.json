@@ -1,0 +1,22 @@
+{
+  "name": "workshop-20-03-2020",
+  "version": "1.0.0",
+  "description": "Workshop Graphql with apollo server Side\r Author : [Alexis Valenciano](https://github.com/allexxis/)\r ## Packages\r * [Express.js](https://expressjs.com/en/4x/api) - Web aplication framework\r * [Loadash.js](https://lodash.com/docs) - Javascript library\r * [BodyParser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware.Parse incoming request bodies in a middleware before your handlers, available under the req.body property.\r * [Sequelize](https://sequelize.org/v5/) - ORM\r * [Mysql2](https://www.npmjs.com/package/mysql2) - MySQL client for Node.js with focus on performance. \r * [Graphql](https://graphql.org/learn/) -  Query language for APIs\r * [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Tokenization library\r * [Apollo-Server](https://sequelize.org/v5/) - ORM\r * [Apollo-Server-Express](https://sequelize.org/v5/) - ORM\r * [Node-Cache](https://www.npmjs.com/package/node-cache) - Internal caching for nodejs\r * [Cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindas22/workshop-20-03-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindas22/workshop-20-03-2020/issues"
+  },
+  "homepage": "https://github.com/mindas22/workshop-20-03-2020#readme"
+}
