@@ -1,5 +1,5 @@
-# workshop-20-03-2020
-Workshop GQl server Side
+# Workshop-20-03-2020
+Workshop Graphql with apollo server Side
 Author : [Alexis Valenciano](https://github.com/allexxis/)
 ## Packages
 * [Express.js](https://expressjs.com/en/4x/api) - Web aplication framework
