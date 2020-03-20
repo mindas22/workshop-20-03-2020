@@ -32,7 +32,7 @@ $ DB_DATABASE=['database'] DB_USERNAME=['root'] DB_PASSWORD=['yourpassword']  DB
 ```
 
 ## Tasks
-#### Fisrt sprint
+#### First sprint
 * [ ] Run configuration  
 * [ ] Install packages
 * [ ] Configure database run script
