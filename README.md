@@ -19,3 +19,11 @@ Author : [Alexis Valenciano](https://github.com/allexxis/)
 ```bash
 $ npm i express graphql cors jsonwebtoken sequelize body-parser apollo-server-express apollo-server node-cache lodash mysql2
 ```
+
+# Run commands
+
+```bash
+$ DB_DATABASE=['database'] DB_USERNAME=['root'] DB_PASSWORD=['yourpassword']  DB_HOST=['localhost'] DB_DIALECT=['mysql'] DB_PORT=['3306'] npm start
+```
+
+
