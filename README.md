@@ -15,12 +15,17 @@ Author : [Alexis Valenciano](https://github.com/allexxis/)
 * [Cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 
 
-# Include all
+## Configuration
+Run the command inside the root folder of the project
+```bash
+$ npm init
+```
+## Include all
 ```bash
 $ npm i express graphql cors jsonwebtoken sequelize body-parser apollo-server-express apollo-server node-cache lodash mysql2
 ```
 
-# Run commands
+## Run commands
 
 ```bash
 $ DB_DATABASE=['database'] DB_USERNAME=['root'] DB_PASSWORD=['yourpassword']  DB_HOST=['localhost'] DB_DIALECT=['mysql'] DB_PORT=['3306'] npm start
