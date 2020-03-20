@@ -35,6 +35,7 @@ $ DB_DATABASE=['database'] DB_USERNAME=['root'] DB_PASSWORD=['yourpassword']  DB
 #### Fisrt sprint
 * [ ] Run configuration  
 * [ ] Install packages
+* [ ] Configure database run script
 * [ ] Run test to test database  
 * [ ] Analyze project structure  
 * [ ] Express server configuration
